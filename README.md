@@ -1,4 +1,4 @@
-Virtual Keyboard
+# Virtual Keyboard
 Virtual Keyboard is a software application developed by Praful Desai that emulates a standard keyboard using OpenCV. 
 It provides a picture of a keyboard on the computer screen, allowing users to enter text by pointing and clicking on the virtual keys. 
 This project aims to provide an alternative input method for individuals who may have difficulty using a physical keyboard. 
